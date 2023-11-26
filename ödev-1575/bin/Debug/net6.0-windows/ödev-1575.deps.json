@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ödev-1575/1.0.0": {
+        "runtime": {
+          "ödev-1575.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ödev-1575/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
